@@ -1,0 +1,2 @@
+
+Hey I'm Avighna a Physics undergraduate at Imperial College London. I am mainly interested in Web development and data anlysis and currently trying to get better at data analysis through Python and at Javascript in general. I'm looking to take part in some hackathons throughout the year to build my coding profile and experience. You can reach out to me through avighnajha1703@gmail.com by email and through avighna_jha on Instagram.
